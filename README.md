@@ -8,6 +8,6 @@ How To Install:
 
 2-Extract The Downloaded Zip File
 
-3-ove The "KubuntuLinux-Splash-Screen" Folder to ~/.local/share/plasma/look-and-feel/
+3-Move The "KubuntuLinux-Splash-Screen" Folder to ~/.local/share/plasma/look-and-feel/
 
-4-njoy
+4-Enjoy
